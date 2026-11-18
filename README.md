@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="banner.svg" alt="coelho-coie · GitHub Profile" width="800">
+  <img src="banner-v2.gif" alt="coelho-coie · GitHub Profile" width="100%">
 </p>
